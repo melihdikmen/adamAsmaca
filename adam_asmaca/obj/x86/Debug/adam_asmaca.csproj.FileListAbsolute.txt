@@ -1,0 +1,10 @@
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.Form1.resources
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.csproj.GenerateResource.Cache
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\bin\Debug\adam_asmaca.exe
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\bin\Debug\adam_asmaca.pdb
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.Properties.Resources.resources
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.exe
+c:\users\melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.Form2.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.Form3.resources
+C:\Users\Melih\documents\visual studio 2010\Projects\adam_asmaca\adam_asmaca\obj\x86\Debug\adam_asmaca.csprojResolveAssemblyReference.cache
